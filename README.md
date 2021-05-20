@@ -5,6 +5,4 @@ Getting started with binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariodhernandez/final_project_joshH_marioH/main)
 
-open new terminal and paste this in
-
-pip install -r requirements.txt
+https://github.com/binder-examples
